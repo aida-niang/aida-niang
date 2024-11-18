@@ -1,4 +1,4 @@
-# 👩‍💻 Bonjour, je suis [Ton Nom ou Pseudo] !  
+# 👩‍💻 Bonjour, je suis Aida NIANG !  
 
 ## 🚀 Développeuse IA en devenir avec une touche créative  
 Étudiante en première année en **IT, spécialisation Intelligence Artificielle**, je mets à profit mon expertise en **création numérique** et mon expérience en **gestion de projets digitaux** pour imaginer des solutions innovantes. Passionnée par l’IA, je cherche à résoudre des problématiques complexes grâce à une approche centrée sur la **data**, le **design**, et l'**impact humain**.  
