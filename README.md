@@ -1,3 +1,68 @@
+# 👩‍💻 Bonjour, je suis [Ton Nom ou Pseudo] !  
+
+## 🚀 Développeuse IA en devenir avec une touche créative  
+Étudiante en première année en **IT, spécialisation Intelligence Artificielle**, je mets à profit mon expertise en **création numérique** et mon expérience en **gestion de projets digitaux** pour imaginer des solutions innovantes. Passionnée par l’IA, je cherche à résoudre des problématiques complexes grâce à une approche centrée sur la **data**, le **design**, et l'**impact humain**.  
+
+🎯 **À la recherche d’une alternance** : Je suis actuellement à la recherche d’une opportunité d’alternance pour poursuivre ma formation tout en apportant mes compétences et mon enthousiasme à un projet concret. N'hésitez pas à me contacter si vous êtes intéressé(e) !  
+
+---
+
+## 🎓 Formation académique
+- **2022 - 2024** : Master en création de contenus, Université de Toulon, France.  
+- **2020 - 2021** : Licence professionnelle en multimédia, UADB, Dakar, Sénégal.  
+
+---
+
+## 💼 Expériences professionnelles
+### 🌐 Digital Manager | Jekkna Sas (2023)  
+- Relancé la présence numérique après 2 ans d'absence.  
+- Déployé une stratégie digitale incluant la création de contenus (visuels et vidéos) et l’organisation d’un challenge interactif.  
+- Mis à jour le site web de l’entreprise avec WordPress.  
+
+### 🧩 Cheffe de projet digital | Proxim'Assur (2022)  
+- Élaboré une stratégie digitale complète pour accompagner la transition numérique de l’entreprise.  
+- Mis en place des outils collaboratifs comme **Trello** et **Slack** pour l’équipe.  
+- Supervisé la création d’un site web et le lancement des réseaux sociaux de l’entreprise.  
+
+---
+
+## 🛠️ Langages & Outils  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 🛠️ Compétences techniques et créatives  
+### 🔬 Intelligence Artificielle (En cours d’apprentissage)  
+- Fondamentaux en **Python**, **apprentissage supervisé/non supervisé**, et manipulation de données.  
+- Objectif : maîtriser les bibliothèques comme **TensorFlow**, **PyTorch**, et l’analyse de données avec **Pandas** et **NumPy**.  
+
+### 🎨 Création de contenus  
+- **Graphisme & photographie** : Photoshop, Illustrator, Lightroom.  
+- **Audiovisuel & Motion Design** : Premiere Pro, After Effects, Audition.  
+
+### 💻 Développement et gestion numérique  
+- **Administration WordPress** : Création et gestion de sites web dynamiques.  
+- **Gestion de projets numériques** : Planification, coordination et suivi efficace.  
+
+---
+
+## 🌟 Statistiques GitHub  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&hide_title=true&count_private=true&theme=radical)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Centres d'intérêt  
+- **Apprentissage automatique & IA** : Créer des solutions innovantes et humaines.  
+- **Création multimédia** : Raconter des histoires captivantes par le visuel et le numérique.  
+- **Photographie & Vidéo** : Explorer de nouvelles perspectives artistiques.  
+- **Cuisine et écriture d’histoires** : Trouver l’inspiration dans des domaines variés.  
+
+
 # Bonjour 👋! Moi c'est Aida NIANG et je suis créative #
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
