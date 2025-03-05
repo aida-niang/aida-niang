@@ -112,8 +112,7 @@ Feel free to reach out if you’re interested in my projects or if you have an e
 
 ### Streak Stats
 
-![Aida's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aida-niang&theme=radical&v=1)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aida-niang&theme=radical" alt="Aida's Streak Stats" />
 
 ### Contribution Graph
 
