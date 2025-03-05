@@ -21,35 +21,11 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 ---
 
-## 🚀 My Projects
+### 📂 Projects
 
-### 1. [Pokémon Game with Pygame](https://github.com/aida-niang/pokemon)
-A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex.
-
-### 2. [Fruit Ninja Game in Python](https://github.com/aida-niang/typing-game)
-A fun and interactive **Fruit Ninja** clone made with **Pygame**. This project highlights my skills in Python and game development.
-
-### 3. [More projects](https://github.com/aida-niang?tab=repositories/)
-
-## 🛠️ Technical Skills
-
-### 🔬 **Artificial Intelligence** (In Progress)
-- **Machine Learning**: Supervised and unsupervised learning, data preprocessing, model evaluation.
-- **Libraries**: TensorFlow, PyTorch, Scikit-learn.
-- **Data Analysis**: Pandas, NumPy, data visualization.
-- **Deep Learning**: Neural networks, CNNs, RNNs, reinforcement learning.
-
-### 🎨 **Content Creation**
-- **Graphic Design & Photography**: Photoshop, Illustrator, Lightroom.
-- **Audio & Motion Design**: Premiere Pro, After Effects, Audition.
-- **Web Design & Development**: HTML5, CSS3, JavaScript, React, WordPress.
-- **Game Development**: Pygame, Unity (basic knowledge).
-
-### 💻 **Web Development & Management**
-- **Languages**: HTML5, CSS3, JavaScript, TypeScript, Python.
-- **Web Frameworks**: React, Node.js.
-- **Version Control**: Git, GitHub.
-- **Web Design & UX**: Adobe XD, Figma.
+| **Project 1** | **Project 2** | **Project 3** |
+|----------------|----------------|----------------|
+| ![Project 1](https://link_to_image.com) [**Project Title 1**](https://link_to_project.com) <br> *Description of the project goes here.* | ![Project 2](https://link_to_image.com) [**Project Title 2**](https://link_to_project.com) <br> *Description of the project goes here.* | ![Project 3](https://link_to_image.com) [**Project Title 3**](https://link_to_project.com) <br> *Description of the project goes here.* |
 
 ---
 
