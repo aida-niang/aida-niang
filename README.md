@@ -33,6 +33,28 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 ---
 
+## 🚀 My Projects
+
+### 1. [Pokémon Game with Pygame](https://github.com/aida-niang/pokemon)
+A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex.
+
+### 2. [Fruit Ninja Game in Python](https://github.com/aida-niang/typing-game)
+A fun and interactive **Fruit Ninja** clone made with **Pygame**. This project highlights my skills in Python and game development.
+
+### 3. [More projects](https://github.com/aida-niang?tab=repositories/)
+
+---
+
+## 🚀 My Projects
+
+### 1. [Pokémon Game with Pygame](https://github.com/aida-niang/pokemon)
+A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex.
+
+### 2. [Fruit Ninja Game in Python](https://github.com/aida-niang/typing-game)
+A fun and interactive **Fruit Ninja** clone made with **Pygame**. This project highlights my skills in Python and game development.
+
+### 3. [More projects](https://github.com/aida-niang?tab=repositories/)
+
 ## 🛠️ Technical Skills
 
 ### 🔬 **Artificial Intelligence** (In Progress)
@@ -78,17 +100,6 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 - **2024 - 2027**: Bachelor in IT, specializing in **Artificial Intelligence** - *Ecole La Plateforme, France*
 - **2022 - 2024**: Master’s in Digital Creation - *Université de Toulon, France*
----
-
-## 🚀 My Projects
-
-### 1. [Pokémon Game with Pygame](https://github.com/aida-niang/pokemon-game)
-A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex.
-
-### 2. [Fruit Ninja Game in Python](https://github.com/aida-niang/fruit-ninja)
-A fun and interactive **Fruit Ninja** clone made with **Pygame**. This project highlights my skills in Python and game development.
-
-### 3. [More projects](https://github.com/aida-niang/)
 
 ---
 
@@ -105,19 +116,19 @@ Feel free to reach out if you’re interested in my projects or if you have an e
 
 ## 📈 GitHub Stats
 
-![Aida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Aida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aida-niang&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aida-niang&layout=compact&theme=radical)
 
 ### Contribution Graph
 
-![Aida's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=yourUsername&theme=radical)
+![Aida's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=aida-niang&theme=radical)
 
 ### Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/wakatime?username=yourUsername&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/wakatime?username=aida-niang&layout=compact&theme=radical)
 
 ---
 
