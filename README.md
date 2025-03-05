@@ -43,18 +43,6 @@ A fun and interactive **Fruit Ninja** clone made with **Pygame**. This project h
 
 ### 3. [More projects](https://github.com/aida-niang?tab=repositories/)
 
----
-
-## 🚀 My Projects
-
-### 1. [Pokémon Game with Pygame](https://github.com/aida-niang/pokemon)
-A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex.
-
-### 2. [Fruit Ninja Game in Python](https://github.com/aida-niang/typing-game)
-A fun and interactive **Fruit Ninja** clone made with **Pygame**. This project highlights my skills in Python and game development.
-
-### 3. [More projects](https://github.com/aida-niang?tab=repositories/)
-
 ## 🛠️ Technical Skills
 
 ### 🔬 **Artificial Intelligence** (In Progress)
