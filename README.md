@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Aspiring AI Developer | Multimedia Enthusiast | Digital Project Manager
 
-I'm a first-year **IT student** specializing in **Artificial Intelligence**. With a background in **multimedia creation** and **digital project management**, I'm passionate about creating innovative solutions that combine **data science**, **AI**, and **design** to address real-world problems.
+I'm a first-year **IT student** specializing in **Artificial Intelligence**. My background in **multimedia creation** and **digital project management** fuels my passion for creating innovative solutions that combine **data science**, **AI**, and **design** to solve real-world problems.
 
 Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFlow, PyTorch), **AI applications**, and **web development**. I'm looking for an apprenticeship opportunity where I can contribute to exciting projects while further developing my expertise.
 
@@ -18,24 +18,23 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 | **Visualization & Reporting** | **Data Visualization & Analytics** | **Cloud & Big Data** |
 | ![Plotly](https://img.shields.io/badge/Plotly-%23314A9D.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23F0A82D.svg?style=for-the-badge&logo=seaborn&logoColor=white) | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%232F4F4F.svg?style=for-the-badge&logo=apache-airflow&logoColor=white) |  |
 
-
 ---
 
 ## Top Projects
 
 | **Pokémon Game with Pygame** | **Fruit Ninja Game in Python** | **Hangman** |
 |-----------------------------|--------------------------------|-------------|
-| ![Pokémon Game](https://link_to_image.com) [**Pokémon Game with Pygame**](https://github.com/aida-niang/pokemon) <br> A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex. | ![Fruit Ninja](https://link_to_image.com) [**Fruit Ninja Game in Python**](https://github.com/aida-niang/typing-game) <br> A fun and interactive **Fruit Ninja** clone made with **Pygame**. This project highlights my skills in Python and game development. | ![Hangman](https://link_to_image.com) [**Hangman**](https://github.com/aida-niang?tab=repositories/) <br> A classic **Hangman** game built with **Python**. |
+| ![Pokémon Game](https://your-image-url.com) <br> [**Pokémon Game with Pygame**](https://github.com/aida-niang/pokemon) <br> A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex. | ![Fruit Ninja](https://your-image-url.com) <br> [**Fruit Ninja Game in Python**](https://github.com/aida-niang/typing-game) <br> A fun and interactive **Fruit Ninja** clone made with **Pygame**. | ![Hangman](https://your-image-url.com) <br> [**Hangman**](https://github.com/aida-niang?tab=repositories/) <br> A classic **Hangman** game built with **Python**. |
 
 ---
 
 ## 💡 Soft Skills
 
-- **Creativity**: Always thinking outside the box to create engaging and innovative digital content.
-- **Project Management**: Experienced in coordinating tasks, setting goals, and managing time efficiently.
-- **Collaboration**: Strong ability to work in teams, communicate ideas clearly, and provide support to colleagues.
-- **Problem-Solving**: Adept at analyzing issues, creating strategies, and finding solutions in a timely manner.
-- **Adaptability**: Comfortable with learning new technologies and adapting to evolving digital landscapes.
+- **Creativity**: Continuously thinking outside the box to create engaging and innovative digital content.
+- **Project Management**: Skilled in coordinating tasks, setting goals, and managing time efficiently.
+- **Collaboration**: Strong communicator and team player, able to provide clear and concise feedback.
+- **Problem-Solving**: Skilled at analyzing issues, creating strategies, and implementing solutions.
+- **Adaptability**: Quick to learn new technologies and adapt to evolving digital landscapes.
 
 ---
 
@@ -56,23 +55,19 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 ## 🌍 Let's Connect!
 
-Feel free to reach out if you’re interested in my projects or if you have an exciting **AI**, **web development**, or **digital project** collaboration in mind!
+Feel free to reach out if you’re interested in my projects or if you have an exciting **AI**, **web development**, or **digital project** collaboration in mind. I'm always open to new opportunities and eager to contribute!
 
-[![Email](https://img.shields.io/badge/Email-%23E44C4F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidam.niang@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidabenhamathn) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/african_hijab) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aidabenhamathn)
+[![Email](https://img.shields.io/badge/Email-%23E44C4F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidam.niang@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidabenhamathn) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/african_hijab) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aida_Niang_)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=aida-niang&show_icons=true&hide_title=true&count_private=true&theme=radical" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aida-niang&layout=compact&theme=radical" width="32%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aida-niang&theme=radical" width="32%" />
 </div>
-
-### Contribution Graph
-
-![Aida's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aida-niang&theme=radical)
 
 ---
 
