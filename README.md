@@ -21,11 +21,11 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 ---
 
-### 📂 Projects
+## 🚀 My Projects
 
-| **Project 1** | **Project 2** | **Project 3** |
-|----------------|----------------|----------------|
-| ![Project 1](https://link_to_image.com) [**Project Title 1**](https://link_to_project.com) <br> *Description of the project goes here.* | ![Project 2](https://link_to_image.com) [**Project Title 2**](https://link_to_project.com) <br> *Description of the project goes here.* | ![Project 3](https://link_to_image.com) [**Project Title 3**](https://link_to_project.com) <br> *Description of the project goes here.* |
+| **Pokémon Game with Pygame** | **Fruit Ninja Game in Python** | **Hangman** |
+|-----------------------------|--------------------------------|-------------|
+| ![Pokémon Game](https://link_to_image.com) [**Pokémon Game with Pygame**](https://github.com/aida-niang/pokemon) <br> A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex. | ![Fruit Ninja](https://link_to_image.com) [**Fruit Ninja Game in Python**](https://github.com/aida-niang/typing-game) <br> A fun and interactive **Fruit Ninja** clone made with **Pygame**. This project highlights my skills in Python and game development. | ![Hangman](https://link_to_image.com) [**Hangman**](https://github.com/aida-niang?tab=repositories/) <br> A classic **Hangman** game built with **Python**. |
 
 ---
 
@@ -41,7 +41,6 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 ## 🌍 Interests
 
-- **Machine Learning & AI**: Passionate about creating smart and human-centered solutions.
 - **Multimedia Creation**: Captivating audiences through visual storytelling and digital design.
 - **Photography & Video**: Exploring beauty and perspectives through the lens.
 - **Cooking & Writing**: Drawing inspiration from creative activities and diverse interests.
