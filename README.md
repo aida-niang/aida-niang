@@ -116,7 +116,7 @@ Feel free to reach out if you’re interested in my projects or if you have an e
 
 ### Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/wakatime?username=aida-niang&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aida-niang&layout=compact&theme=radical)
 
 ---
 
