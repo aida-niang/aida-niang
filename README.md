@@ -71,4 +71,10 @@ Feel free to reach out if you’re interested in my projects or if you have an e
 
 ---
 
+### Contribution Graph
+
+![Aida's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aida-niang&theme=radical)
+
+---
+
 Thanks for visiting my GitHub! 👋
