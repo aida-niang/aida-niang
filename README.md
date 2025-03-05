@@ -21,7 +21,7 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 ---
 
-## 🚀 My Projects
+## Top Projects
 
 | **Pokémon Game with Pygame** | **Fruit Ninja Game in Python** | **Hangman** |
 |-----------------------------|--------------------------------|-------------|
@@ -58,24 +58,17 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 Feel free to reach out if you’re interested in my projects or if you have an exciting **AI**, **web development**, or **digital project** collaboration in mind!
 
-- 📧 [Email](mailto:aidam.niang@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aidabenhamathn)
-- 📸 [Instagram](https://www.instagram.com/african_hijab)
-- 🐦 [Twitter](https://twitter.com/aidabenhamathn)
+[![Email](https://img.shields.io/badge/Email-%23E44C4F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidam.niang@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidabenhamathn) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/african_hijab) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aidabenhamathn)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aida-niang&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aida-niang&layout=compact&theme=radical)
-
-### Streak Stats
-
-![Aida's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aida-niang&theme=radical)
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aida-niang&show_icons=true&hide_title=true&count_private=true&theme=radical" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aida-niang&layout=compact&theme=radical" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aida-niang&theme=radical" width="32%" />
+</div>
 
 ### Contribution Graph
 
