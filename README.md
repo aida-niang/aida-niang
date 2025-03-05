@@ -106,17 +106,13 @@ Feel free to reach out if you’re interested in my projects or if you have an e
 
 ![Aida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aida-niang&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-### Top Languages
+### Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aida-niang&layout=compact&theme=radical)
 
 ### Contribution Graph
 
-![Aida's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=aida-niang&theme=radical)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aida-niang&layout=compact&theme=radical)
+![Aida's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aida-niang&theme=radical)
 
 ---
 
