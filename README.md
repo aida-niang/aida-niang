@@ -110,6 +110,10 @@ Feel free to reach out if you’re interested in my projects or if you have an e
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aida-niang&layout=compact&theme=radical)
 
+### Streak Stats
+
+![Aida's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aida-niang&theme=radical)
+
 ### Contribution Graph
 
 ![Aida's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aida-niang&theme=radical)
