@@ -57,7 +57,7 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 Feel free to reach out if you’re interested in my projects or if you have an exciting **AI**, **web development**, or **digital project** collaboration in mind. I'm always open to new opportunities and eager to contribute!
 
-[![Email](https://img.shields.io/badge/Email-%23E44C4F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidam.niang@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidabenhamathn) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/african_hijab) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aida_Niang_)
+[![Email](https://img.shields.io/badge/Email-%23E44C4F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidam.niang@gmail.com)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidabenhamathn)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/african_hijab)    [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aida_Niang_)
 
 ---
 
