@@ -24,9 +24,10 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 | **Pokémon Game with Pygame** | **Fruit Ninja Game in Python** | **Hangman** |
 |-----------------------------|--------------------------------|-------------|
-| ![Pokémon Game](https://your-image-url.com) <br> [**Pokémon Game with Pygame**](https://github.com/aida-niang/pokemon) <br> A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex. | ![Fruit Ninja](https://your-image-url.com) <br> [**Fruit Ninja Game in Python**](https://github.com/aida-niang/typing-game) <br> A fun and interactive **Fruit Ninja** clone made with **Pygame**. | ![Hangman](https://your-image-url.com) <br> [**Hangman**](https://github.com/aida-niang?tab=repositories/) <br> A classic **Hangman** game built with **Python**. |
+| ![Pokémon Game](https://raw.githubusercontent.com/aida-niang/my-repo/main/images/pokemon-game.jpg) <br> [**Pokémon Game with Pygame**](https://github.com/aida-niang/pokemon) <br> A Python-based game built with **Pygame** featuring a simple Pokémon gameplay system. Integrated with **PokéAPI** to fetch data and create a dynamic Pokédex. | ![Fruit Ninja](https://raw.githubusercontent.com/aida-niang/my-repo/main/images/fruit-ninja.jpg) <br> [**Fruit Ninja Game in Python**](https://github.com/aida-niang/typing-game) <br> A fun and interactive **Fruit Ninja** clone made with **Pygame**. | ![Hangman](https://raw.githubusercontent.com/aida-niang/my-repo/main/images/hangman.jpg) <br> [**Hangman**](https://github.com/aida-niang?tab=repositories/) <br> A classic **Hangman** game built with **Python**. |
 
 ---
+
 
 ## 💡 Soft Skills
 
