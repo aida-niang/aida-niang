@@ -76,4 +76,10 @@ Feel free to reach out if you’re interested in my projects or if you have an e
 
 ---
 
+## 🏆 GitHub Profile Trophy
+
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=aida-niang&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 Thanks for visiting my GitHub! 👋
