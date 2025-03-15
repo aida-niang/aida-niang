@@ -8,7 +8,7 @@ Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFl
 
 ---
 
-### 🔧 Languages & Tools  
+### Languages & Tools  
 
 | **Programming Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
 |---------------------------|----------------------------|-----------------------|
