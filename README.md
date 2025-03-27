@@ -2,6 +2,7 @@
 
 ## 👩‍💻 Future Data Analyst | Background in Digital Project Manager
 
+
 I'm a first-year **IT student** specializing in **Artificial Intelligence**. My background in **multimedia creation** and **digital project management** fuels my passion for creating innovative solutions that combine **data science**, **AI**, and **design** to solve real-world problems.
 
 Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFlow, PyTorch), **AI applications**, and **web development**. I'm looking for an apprenticeship opportunity where I can contribute to exciting projects while further developing my expertise.
