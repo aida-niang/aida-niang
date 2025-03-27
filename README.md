@@ -1,6 +1,6 @@
 # Hi there, I'm Aida BenHamath NIANG 👋
 
-## 👩‍💻 Aspiring AI Developer | Multimedia Enthusiast | Digital Project Manager
+## 👩‍💻 Future Data Analyst | Background in Digital Project Manager
 
 I'm a first-year **IT student** specializing in **Artificial Intelligence**. My background in **multimedia creation** and **digital project management** fuels my passion for creating innovative solutions that combine **data science**, **AI**, and **design** to solve real-world problems.
 
