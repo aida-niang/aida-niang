@@ -1,17 +1,26 @@
 # Hi there, I'm Aida BenHamath NIANG 👋
 
 ## 👩‍💻 Future Data Analyst | Background in Digital Project Manager
+📍 Marseille, France
 
 ![banner](./banner.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeline-patenne/)  [![portfolio](https://img.shields.io/badge/🌐%20Portfolio-282828?style=for-the-badge&logo=&logoColor=60C6ED)](https://adeline-patenne.students-laplateforme.io/portfolio.php)  [![gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeline.patenne@laplateforme.io)  
 
 
 I'm a first-year **IT student** specializing in **Artificial Intelligence**. My background in **multimedia creation** and **digital project management** fuels my passion for creating innovative solutions that combine **data science**, **AI**, and **design** to solve real-world problems.
 
 Currently, I'm expanding my skills in **Python**, **machine learning** (TensorFlow, PyTorch), **AI applications**, and **web development**. I'm looking for an apprenticeship opportunity where I can contribute to exciting projects while further developing my expertise.
 
+___
+
+| Languages | Level |                       
+| ------------- | ----- |
+| 🇫🇷 | *French* (fluent) |
+| 🇺🇸 | *English* (advanced) |
+
 ---
 
-### Languages & Tools  
+### Hard Skills 
 
 | **Programming Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
 |---------------------------|----------------------------|-----------------------|
